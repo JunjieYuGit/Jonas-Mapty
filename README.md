@@ -1,1 +1,3 @@
-# Mapty project original from Jonas Schmedtmann
+# Mapty project
+
+Original from Jonas Schmedtmann in Udemy
